@@ -1,0 +1,21 @@
+step:-
+1:- for runing this project please download xampp 
+2:- run apache and mysql
+3:-open php my admin 
+4:- go to locolhost./zoho
+5:-open regester.html
+   5.1-regester your self
+    and goto sign in page 
+6:- put the required vale 
+   -->you are in my welcome page
+
+
+This is my project,
+    Thankyou!
+
+
+
+
+
+
+note :- I am not s able to run live commenet please gibve me a chance 
